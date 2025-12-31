@@ -32,4 +32,4 @@ npm run dev
 💼 Freelance / Professional Inquiry
 This project was developed as a demonstration of high-performance frontend engineering for the healthcare sector. I am available for custom development for clinics, medical startups, and professional service firms.
 
-Connect with me: [Insert your Portfolio/LinkedIn Link]
+Connect with me: https://prabhkiratsingh.vercel.app/
